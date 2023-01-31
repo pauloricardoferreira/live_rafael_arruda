@@ -1,0 +1,7 @@
+Guia de Instalação Básica Apache Hop -> https://github.com/pauloricardoferreiraf/live_hop_install.git
+
+Artefatos Apache Hop -> https://github.com/pauloricardoferreiraf/live_hop.git
+
+Dags Airflow -> https://github.com/pauloricardoferreiraf/live_airflow_dags.git
+
+Stack Airflow/Hop/Postgres-> https://github.com/pauloricardoferreiraf/live_hop_docker.git
