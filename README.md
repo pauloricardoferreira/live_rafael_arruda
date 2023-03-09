@@ -2,6 +2,11 @@
 
 Se você chegou até aqui atravéz da live que apresentei para a comunidade Pentarruda, segue novos repositórios para configurar e iniciar os serviços da live.
 
+## Recomendações 
+
+Antes de iniciar, assista a playlist abaixo.\
+Acesse o link a seguir para realizar a instalação [LinuxTips - Descomplicando Docker - Instalação](https://www.youtube.com/watch?v=4XwzR9vXT5s&list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR&index=6)
+
 ## **Repositórios Atualizados**
 
 1. [Apache Hopr par Desenvolvimento Local](https://github.com/pauloricardoferreira/hop_configurar_local_desenvolvimento)
@@ -16,6 +21,6 @@ Se você chegou até aqui atravéz da live que apresentei para a comunidade Pent
 9. [Portainer](https://github.com/pauloricardoferreira/docker_portainer)
 10. [Superser **EM BREVE**]()
 
-
 ## **Repositórios Pentaho**
 Infelizmente os repositórios sobre Pentaho não serão mais atualizados, porém vão ficar disponíveis para estudos
+
